@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "280932258036",
+    "firebase_url": "https://amass-survey.firebaseio.com",
+    "project_id": "amass-survey",
+    "storage_bucket": "amass-survey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280932258036:android:3dd36dc2785207804e4ea1",
+        "android_client_info": {
+          "package_name": "com.fractalbyte.amass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280932258036-o0i57vgtbdfitgb4u9mngtiub9382nuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzoRIe2FIX7UIauIoVmbX9KmPdyDApvT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280932258036-o0i57vgtbdfitgb4u9mngtiub9382nuo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280932258036-a2upk2qo2u3dv0uk0jr18f6obcam9b3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fractabyte.amass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

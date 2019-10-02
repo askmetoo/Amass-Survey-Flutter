@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>280932258036-a2upk2qo2u3dv0uk0jr18f6obcam9b3f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.280932258036-a2upk2qo2u3dv0uk0jr18f6obcam9b3f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaYELK6cBVE09yxl7c5FhsA8yWNjNy8gA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>280932258036</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fractabyte.amass</string>
+	<key>PROJECT_ID</key>
+	<string>amass-survey</string>
+	<key>STORAGE_BUCKET</key>
+	<string>amass-survey.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:280932258036:ios:9145deb6cbc1cb8f4e4ea1</string>
+	<key>DATABASE_URL</key>
+	<string>https://amass-survey.firebaseio.com</string>
+</dict>
+</plist>
